@@ -15,6 +15,7 @@
       "subtype" : "42mm"
     },
     {
+      "filename" : "アイコン-1.jpg",
       "idiom" : "watch",
       "role" : "companionSettings",
       "scale" : "2x",
@@ -41,6 +42,7 @@
       "subtype" : "40mm"
     },
     {
+      "filename" : "アイコン-2.jpg",
       "idiom" : "watch",
       "role" : "appLauncher",
       "scale" : "2x",
@@ -62,6 +64,7 @@
       "subtype" : "42mm"
     },
     {
+      "filename" : "アイコン.jpg",
       "idiom" : "watch",
       "role" : "quickLook",
       "scale" : "2x",
